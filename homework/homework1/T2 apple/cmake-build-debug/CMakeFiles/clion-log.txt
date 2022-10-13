@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lll/CLionProjects/apple
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lll/CLionProjects/apple/cmake-build-debug
